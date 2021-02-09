@@ -1,0 +1,16 @@
+{
+  "name": "boruta/php-parallel-ide-autocomplete",
+  "description": "This package allows you to activate the auto-complete in the IDE for native functions from the extension: PHP Parallel.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Boruta",
+      "email": "sebastian@boruta.info"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-parallel": ">=1.1.4"
+  }
+}
